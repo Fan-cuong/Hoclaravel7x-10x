@@ -47,7 +47,7 @@
                                 <div class="form-group">
                                     <input class="form-control" placeholder="Password" name="password" type="password" value="">
                                 </div>
-                                <button type="submit" class="btn btn-lg btn-success btn-block">Loginnnnn</button>
+                                <button type="submit" class="btn btn-lg btn-success btn-block">Login</button>
                             </fieldset>
                         </form>
                     </div>
